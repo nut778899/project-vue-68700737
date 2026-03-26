@@ -47,6 +47,11 @@ const routes = [
     name: 'register',
     component: () => import('../views/Register.vue')
   },
+   {
+    path: '/add_employees',
+    name: 'add_employees',
+    component: () => import('../views/Add_employees.vue')
+  },
   
 ]
 

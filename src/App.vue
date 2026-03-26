@@ -29,7 +29,7 @@
             <li><a class="dropdown-item" href="/show_customer">show customers</a></li>
             <li><a class="dropdown-item" href="/show_employees">show Employees</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Logout</a></li>
+            <li><a class="dropdown-item" href="/add_employees">Add employees</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
